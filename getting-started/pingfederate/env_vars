@@ -24,7 +24,8 @@ export serverSettings_systemKeys_items_pending_keyData="7ZuraJ9Iz9H0tczsx4Ta2YOP
 #PING_IDENTITY_PASSWORD=2FederateM0re
 PING_IDENTITY_PASSWORD=QQ!!w2e3
 export PING_IDENTITY_PASSWORD
-PF_ADMIN_PUBLIC_HOSTNAME=demo-pingfederate-admin.ping-local.com
+#PF_ADMIN_PUBLIC_HOSTNAME=demo-pingfederate-admin.ping-local.com
+PF_ADMIN_PUBLIC_HOSTNAME=mypingfed.ping-local.com.ping-local.com
 export PF_ADMIN_PUBLIC_HOSTNAME
 #PING_PRODUCT_VERSION=2410-12.1.3
 #export PING_PRODUCT_VERSION
